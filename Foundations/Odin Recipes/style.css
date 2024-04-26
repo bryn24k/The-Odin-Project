@@ -13,6 +13,10 @@ h1 {
     margin: 20px auto;
 }
 
+h2 {
+    text-align: center;
+}
+
 div.container {
     text-align: center;
     border-width: 3px;
@@ -21,7 +25,33 @@ div.container {
     margin: 0 auto;
 }
 
+.container-recipes {
+    border-width: 3px;
+    border-style: solid;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.container-recipes p {
+    margin: auto;
+    text-align: left;
+    width: 90%;
+}
+
 div.recipes-list {
    display: inline-block;
    text-align: left; 
+}
+
+div>img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.links {
+    text-align: center;
+    margin-bottom: 20px;
+    font-variant-caps: all-small-caps;
 }
