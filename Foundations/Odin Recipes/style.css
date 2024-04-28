@@ -25,8 +25,6 @@ div.container {
 }
 
 .container-recipes {
-    border-width: 3px;
-    border-style: solid;
     max-width: 500px;
     margin: 0 auto;
 }
@@ -35,11 +33,6 @@ div.container {
     margin: auto;
     text-align: left;
     width: 90%;
-}
-
-div.recipes-list {
-   display: inline-block;
-   text-align: center; 
 }
 
 div>img {
