@@ -22,7 +22,7 @@ div.container {
     text-align: center;
     border-width: 3px;
     border-style: solid;
-    max-width: 500px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@ div.container {
 
 div.recipes-list {
    display: inline-block;
-   text-align: left; 
+   text-align: center; 
 }
 
 div>img {
@@ -55,4 +55,22 @@ div>img {
     text-align: center;
     margin-bottom: 20px;
     font-variant-caps: all-small-caps;
+}
+
+.recipe {
+    display: inline-block;
+    margin: 0 5px; /* Adjust margin as needed */
+    text-align: center;
+}
+
+.recipe img {
+    width: 150px; /* Adjust width as needed */
+    height: auto;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+.recipe p {
+    max-width: 150px;
+    margin: 0px 0px 10px;
 }
