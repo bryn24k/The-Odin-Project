@@ -3,3 +3,4 @@ Projects I have completed through the [The Odin Project](https://www.theodinproj
 
 ## Foundations
 1. Odin Recipes - View on [GitHub](https://bryn24k.github.io/The-Odin-Project/Foundations/Odin%20Recipes/index.html)
+2. Langing Page - View on [GitHub](https://bryn24k.github.io/The-Odin-Project/Foundations/Landing%20Page/index.html)
