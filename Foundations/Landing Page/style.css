@@ -13,6 +13,7 @@ body {
 header {
     background-color: #1F2937;
     justify-content: center;
+    padding: 10px 20px;
 }
 
 .container {
@@ -20,12 +21,14 @@ header {
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    max-width: 1200px;
+    max-width: 1000px;
 }
 
-.logo img {
-    max-width: 300px;
-    max-height: auto;
+.header-logo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; /*Bold, matching the style guide's likely intent */
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .links {
